@@ -1,7 +1,3 @@
-Hello from puns.txt
-
-Going for a coffee break;
-
 Boss: How good are you at PowerPoint?
 Me: I Excel at it.
 Boss: Was that a pun?
